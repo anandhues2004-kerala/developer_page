@@ -33,6 +33,8 @@ This project showcases a clean layout with multiple sections including navigatio
 
 PREVIEW
 
+[live]( https://anandhues2004-kerala.github.io/developer_page/)
+
 
 ![img](./download.png)
 ---
